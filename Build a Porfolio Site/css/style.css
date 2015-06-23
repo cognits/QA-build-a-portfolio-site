@@ -1,0 +1,17 @@
+/* Application body */
+.body {
+    background-color: #9FF781;
+}
+
+#icons {
+  text-align: center;
+}
+
+hr{
+	color:black;
+}
+
+.logo{
+	width: 138px;
+	height: 100px;
+}
