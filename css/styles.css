@@ -1,0 +1,46 @@
+.cat {
+    width: 30%;
+    margin-bottom: 10px;
+}
+
+.featured-work {
+    color: #ACACAC;
+    font-weight: bold;
+}
+
+.picture-featured-work {
+    text-align: center;
+}
+
+.icon-google-plus2 {
+    color: #B61414;
+}
+
+.icon-github {
+    color: #000000;
+}
+
+span {
+    margin-right: 5px;
+}
+
+img {
+    width: 100%;
+    height: auto;
+}
+
+header {
+    font-family: 'Raleway', sans-serif;
+    margin: 0 0 25px 0;
+    border-bottom: 3px solid #868686;
+}
+
+details {
+    font-family: 'Indie Flower', cursive;
+}
+
+a {
+    color: black;
+    font-weight: bold;
+    font-size: 135%;
+}
