@@ -3,14 +3,12 @@
     background-color: #9FF781;
 }
 
+/* Iconos */
 #icons {
   text-align: center;
 }
 
-hr{
-	color:black;
-}
-
+/* Banner */
 .logo{
 	width: 138px;
 	height: 100px;
