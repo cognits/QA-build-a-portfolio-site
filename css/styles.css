@@ -1,0 +1,67 @@
+.cat {
+    width: 25%;
+    margin: 10px 0 10px 0;
+}
+
+.featured-work {
+    color: #ACACAC;
+    font-weight: bold;
+}
+
+.pictures-featured-work {
+    text-align: center;
+}
+
+
+/*Declaring icons color.*/
+.icon-google-plus2 {
+    color: #B61414;
+}
+
+.icon-github {
+    color: #000000;
+}
+
+.icon-facebook2 {
+    color: #3151D0;
+}
+
+
+/*Leave a space between the icon and text.*/
+span {
+    margin-right: 5px;
+    font-size: 150%;
+}
+
+img {
+    width: 100%;
+    height: auto;
+}
+
+header {
+    font-family: 'Raleway', sans-serif;
+    margin: 0 0 25px 0;
+    border-bottom: 3px solid #868686;
+}
+
+section {
+    font-family: 'Indie Flower', cursive;
+}
+
+a {
+    color: black;
+    font-weight: bold;
+    font-size: 135%;
+}
+
+figcaption {
+    font-size: 220%;
+}
+
+
+/*On small screens, does not display the image of the cat.*/
+@media screen and (max-width: 800px) {
+    .cat-container {
+        display: none;
+    }
+}
