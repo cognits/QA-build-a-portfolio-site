@@ -1,0 +1,75 @@
+/*CSS code*/
+body {
+    font-family:'Source Sans Pro', sans-serif;
+    background-color: #cecece
+}
+/*Logo of cognits*/
+.logo {
+    margin-top: 1%;
+    height: 70px;
+    width: 120px;
+    display: inline-block;
+}
+/*header page*/
+.header {
+    margin-top: 1%;
+    text-align: right;
+    float: right;
+    display: inline-block;
+}
+/*big image*/
+.first-image {
+    height: 30%;
+    width: 80%;
+}
+/*text of first image*/
+.sub-first {
+    text-align: center;
+    font-size: 20px;
+}
+/*style of links*/
+.links {
+    text-align: center;
+    font-size: 15px;
+}
+/*hover link*/
+.links:hover {
+    color: black;
+    font:bold;
+    text-decoration: none;
+}
+/*Format of BY*/
+.by {
+    text-align: right;
+    font-size: 17px;
+}
+hr {
+    background-color: #808080;
+}
+/*align all images to center*/
+.center-block {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+/*image size below*/
+.size-image {
+    height: 90%;
+    width: 80%;
+}
+/*Section of Media Query for responsive page*/
+@media screen and (max-width: 359px) {
+    .name {
+        font-size: 20px;
+    }
+    .front-end {
+        font-size: 14px;
+    }
+    .featured{
+        text-align: center;
+    }
+    .sub-first{
+        text-align: center;
+        font-size: 20px;
+    }
+}
