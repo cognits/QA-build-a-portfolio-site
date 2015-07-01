@@ -1,0 +1,15 @@
+/* Application body */
+.body {
+    background-color: #9FF781;
+}
+
+/* Iconos */
+#icons {
+  text-align: center;
+}
+
+/* Banner */
+.logo{
+	width: 138px;
+	height: 100px;
+}
